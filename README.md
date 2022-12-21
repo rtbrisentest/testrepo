@@ -1,3 +1,3 @@
 # testrepo
 testing commands
-testing add
+testing add message
